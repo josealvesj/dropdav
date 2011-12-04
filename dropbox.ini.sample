@@ -9,5 +9,5 @@ access_token_url = http://api.getdropbox.com/0/oauth/access_token
 authorization_url = http://api.getdropbox.com/0/oauth/authorize
 trusted_access_token_url: https://api.getdropbox.com/0/token
 
-consumer_key = YOUR_KEY_HERE
-consumer_secret = YOUR_SECRET_HERE
+consumer_key = josealvesjunior@gmail.com
+consumer_secret = navegar
